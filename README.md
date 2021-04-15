@@ -22,5 +22,5 @@ Patients with the same complications have a short distance. Also, the loss of th
 # Conclusion - Clustering
 After KNN progression, patients without complications enter Cluster0 or ClusterN obtain the probability that the data entered ClusterN has Complications N. Put each patient in a random cluster to see if Metric Learning and Clustering are appropriate and calculate the probability.
 ![image](https://user-images.githubusercontent.com/67357059/114871349-2a4b5480-9e34-11eb-89c2-64339486ed2f.png)
-
+# Code detail
 
