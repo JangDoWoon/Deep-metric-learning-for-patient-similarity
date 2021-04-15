@@ -23,4 +23,8 @@ Patients with the same complications have a short distance. Also, the loss of th
 After KNN progression, patients without complications enter Cluster0 or ClusterN obtain the probability that the data entered ClusterN has Complications N. Put each patient in a random cluster to see if Metric Learning and Clustering are appropriate and calculate the probability.
 ![image](https://user-images.githubusercontent.com/67357059/114871349-2a4b5480-9e34-11eb-89c2-64339486ed2f.png)
 # Code detail
-
+Clustering.ipynb is the code about Clustering after clustering
+Complication_labeling.ipynb is the code about complication labeling before doc2vec
+embedding_doc2vec.ipynb is the code about doc2vec fot each patient visit
+siamese_model.ipynb is the code about siamese network model to get the similarity about patient
+similarity_labeling.ipynb is the code about similarity labeling about pair patient
